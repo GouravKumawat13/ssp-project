@@ -7,6 +7,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+  // second file
 </style>
 <form method="post" action="feedbackinsert.jsp">
 <table>
